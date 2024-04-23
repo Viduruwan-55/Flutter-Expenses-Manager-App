@@ -13,10 +13,10 @@
 
 ## Installation:
 
-✔ Clone the repository: git clone `https://github.com/yourusername/flutter-expense-manager.git`
-✔ Navigate to the project directory: `cd flutter-expense-manager`
-✔ Install dependencies: `flutter pub get`
-✔ Run the app: `flutter run`
+✔- Clone the repository: git clone `https://github.com/yourusername/flutter-expense-manager.git`
+✔- Navigate to the project directory: `cd flutter-expense-manager`
+✔- Install dependencies: `flutter pub get`
+✔- Run the app: `flutter run`
 
 ## Contributing:
 
