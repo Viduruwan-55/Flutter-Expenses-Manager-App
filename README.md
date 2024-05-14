@@ -3,8 +3,8 @@
 - Manage your expenses effortlessly with this intuitive and feature-rich expense manager built using Flutter. Whether you're tracking personal expenses or managing finances for your business, this app provides a seamless experience to keep your finances organized and under control.
 
 <p align="center">
-  <img src="../flutter_app_2/assets/Capture.JPG"><br/><br/>
-  <img src="../flutter_app_2/assets/Capture-2.JPG"><br/>
+  <img src="../assets/Capture.JPG"><br/><br/>
+  <img src="../assets/Capture-2.JPG"><br/>
 </p>
 
 ## Key Features:
