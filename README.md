@@ -2,6 +2,11 @@
 
 - Manage your expenses effortlessly with this intuitive and feature-rich expense manager built using Flutter. Whether you're tracking personal expenses or managing finances for your business, this app provides a seamless experience to keep your finances organized and under control.
 
+<p align="center">
+  <img src="../flutter_app_2/assets/Capture.JPG"><br/><br/>
+  <img src="../flutter_app_2/assets/Capture-2.JPG"><br/>
+</p>
+
 ## Key Features:
 
 - > User-Friendly Interface: Intuitive design makes it easy to track and categorize expenses.
@@ -13,10 +18,10 @@
 
 ## Installation:
 
-- ✔  Clone the repository: git clone `https://github.com/yourusername/flutter-expense-manager.git`
-- ✔  Navigate to the project directory: `cd flutter-expense-manager`
-- ✔  Install dependencies: `flutter pub get`
-- ✔  Run the app: `flutter run`
+- ✔ Clone the repository: git clone `https://github.com/yourusername/flutter-expense-manager.git`
+- ✔ Navigate to the project directory: `cd flutter-expense-manager`
+- ✔ Install dependencies: `flutter pub get`
+- ✔ Run the app: `flutter run`
 
 ## Contributing:
 
